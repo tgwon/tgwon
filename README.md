@@ -14,7 +14,7 @@
 
 > **Tech Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-007ACC?logo=visual studio code&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white">
 
 
 > **Contacts**
