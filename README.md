@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=header&text=TaeKwon%20You&fontSize=40&fontAlignY=30&fontAlign=20)
-
 > **About Me**
 
 
@@ -8,21 +6,6 @@
 📊 I'm majoring in Applied Statistics.
 
 ❤️‍🔥 I'm interested in NLP and various study related to data.
-
-<br>
-
-> **Prize & Experience**
-
-
-🏆 제4회 중앙대학교 경영경제대학 학술제 **우수상**
-
-🏆 제5회 대구 빅데이터 분석 경진대회 **최우수상(소비자 부문)**
-
-🏆 제3회 소방안전 빅데이터 활용 및 아이디어 경진대회 **최우수상(활용사례 부문)**
-
-🏆 제4회 응용통계학과 분석 공모전 **최우수상**
-
-🍊 BITAmin(빅데이터 연합 동아리) 11기
 
 <br>
 
