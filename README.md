@@ -10,10 +10,10 @@
 </br>
 
 > **Awards** 
-- 🏆  제4회 중앙대학교 경영경제대학 학술제, **[우수상](https://dacon.io/competitions/official/235891/codeshare/4809)**
-- 🏆  제5회 대구 빅데이터 분석 경진대회, **[최우수상](https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P260&bbs_seq=612&ac_type=A1&sch_type=&sch_text=차+없는&currentPage=1) (한국소비자원장상)**
-- 🏆  제3회 소방안전 빅데이터 플랫폼 활용 및 아이디어 경진대회, **[최우수상](https://github.com/yeoniiii/local_security_competition) (한국소방안전원장상)**
-- 🏆  2023년 중앙대학교 데이터 분석 공모전, **[최우수상](https://github.com/yeoniiii/BigContest_2023)** 
+- 🏆  제4회 중앙대학교 경영경제대학 학술제, **[우수상]()**
+- 🏆  제5회 대구 빅데이터 분석 경진대회, **[최우수상](https://github.com/tgwon/News_Recommendation) (한국소비자원장상)**
+- 🏆  제3회 소방안전 빅데이터 플랫폼 활용 및 아이디어 경진대회, **[최우수상](https://github.com/tgwon/Building_Safety_Indicators) (한국소방안전원장상)**
+- 🏆  2023년 중앙대학교 데이터 분석 공모전, **[최우수상](https://github.com/tgwon/Recruitment_Text_Mining)** 
 </br>
 
 ## 🛠️ Tech Stack 
@@ -26,5 +26,5 @@
 ## 📑 Blog
 
 <a href="https://tgwon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F25546.svg?logo=Tistory&logoColor=white">
-<a href="https://tgwon.tistory.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
 
