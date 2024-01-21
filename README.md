@@ -23,7 +23,7 @@
 </br></br>
 
 
-## 📑 Blog
+## 📑 About Me
 
 <a href="https://tgwon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F25546.svg?logo=Tistory&logoColor=white">
 <a href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
