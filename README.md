@@ -20,16 +20,11 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white"> <img src="https://img.shields.io/badge/RStudio-75AADB?logo=RStudio&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white">
+</br></br>
 
 
 ## 📑 Blog
 
 <a href="https://tgwon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F25546.svg?logo=Tistory&logoColor=white">
+<a href="https://tgwon.tistory.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
 
-
-<img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white"/>
-</a>
-[![Tistory](https://img.shields.io/badge/Tistory-F25546.svg?&style=for-the-badge&logo=Tistory&logoColor=white)]()
-<a href="" target="_blank">
-<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
-</a>
