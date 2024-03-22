@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm TaeKwon Yu
-> **About Me**
+> **Brief Introduction**
 - 🎓 I majored in `applied statistics`.
 - 💡 I am currently interested in `statistical data analysis` and `AI`. Especially `DL(NLP)`.
 </br>
@@ -30,7 +30,7 @@
 </br></br>
 
 
-> **About Me**
+> **More about me**
 
 <a href="" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
 <a href="https://tgwon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-F25546.svg?logo=Tistory&logoColor=white">
