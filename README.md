@@ -1,9 +1,4 @@
 ## 👋 Hi, I'm TaeKwon Yu
-> **Brief Introduction**
-- 🎓 I majored in `applied statistics`.
-- 💡 I am currently interested in `statistical data analysis` and `AI`. Especially `DL(NLP)`.
-</br>
-
 > **Major** 
 -  🎓 **중앙대학교 응용통계학과** 학사 졸업 `2019.03 ~ 2024.08` (졸업 예정)
 </br>
